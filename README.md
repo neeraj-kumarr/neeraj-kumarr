@@ -6,9 +6,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neeraj-kumarr&column=4&margin-w=70&margin-h=70" alt="neeraj-kumarr" /></a> </p>
 
-- 🔭 I’m currently working on [React-NewsApp](https://github.com/neeraj-kumarr/React-NewsApp)
+- 🌱 A final-year CS Student and currently learning **MERN Stack**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🔭 I’m currently working on [React-NewsApp](https://github.com/neeraj-kumarr/React-NewsApp)
 
 - 👨‍💻 All of my projects are available at [https://github.com/neeraj-kumarr](https://github.com/neeraj-kumarr)
 
