@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj-kumarr&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj-kumarr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neeraj-kumarr&column=3&margin-w=15&margin-h=15" alt="neeraj-kumarr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neeraj-kumarr&column=4&margin-w=20&margin-h=20" alt="neeraj-kumarr" /></a> </p>
 
 - 🔭 I’m currently working on [React-NewsApp](https://github.com/neeraj-kumarr/React-NewsApp)
 
