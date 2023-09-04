@@ -1,31 +1,3 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Neeraj Kumar's GitHub Profile</title>
-    <style>
-        body {
-            background-color: black;
-            color: white;
-            font-family: Arial, sans-serif;
-        }
-
-        h1, h3 {
-            text-align: center;
-        }
-
-        p {
-            text-align: left;
-        }
-
-        img {
-            max-width: 100%;
-        }
-
-        /* Add any additional styling here */
-    </style>
-</head>
-<body>
 
 
 <h1 align="center">Hi There👋, I'm Neeraj Kumar</h1>
