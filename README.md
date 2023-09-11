@@ -2,9 +2,6 @@
 
 <h1 align="center">Hi There👋, I'm Neeraj Kumar</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj-kumarr&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj-kumarr" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neeraj-kumarr&column=4&margin-w=70&margin-h=70" alt="neeraj-kumarr" /></a> </p>
 
 - 🌱 A final-year CS Student and currently learning **MERN Stack**
 
