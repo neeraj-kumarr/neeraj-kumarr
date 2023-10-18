@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [React-NewsApp](https://github.com/neeraj-kumarr/React-NewsApp)
 
-- 👨‍💻 All of my projects are available at [https://github.com/neeraj-kumarr](https://github.com/neeraj-kumarr)
+- 👨‍💻 All of my projects are available at [https://github.com/neeraj-kumarr?tab=repositories](https://github.com/neeraj-kumarr?tab=repositories)
 
 - 📫 How to reach me **neeraj.dsu@gmail.com**
 
