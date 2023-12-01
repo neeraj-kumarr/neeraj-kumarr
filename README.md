@@ -3,9 +3,9 @@
 <h1 align="center">Hi There👋, I'm Neeraj Kumar</h1>
 
 
-- 🌱 A final-year CS Student and currently learning **MERN Stack**
+- 🌱 A final-semester CS Student and currently learning **MERN Stack**
 
-- 🔭 I’m currently working on [React-NewsApp](https://github.com/neeraj-kumarr/React-NewsApp)
+- 🔭 I’m currently working on [React-NoteDiary](https://github.com/neeraj-kumarr/React-NoteDiary)
 
 - 👨‍💻 All of my projects are available at [https://github.com/neeraj-kumarr?tab=repositories](https://github.com/neeraj-kumarr?tab=repositories)
 
