@@ -3,7 +3,7 @@
 <h1 align="center">Hi There👋, I'm Neeraj Kumar</h1>
 
 
-- 🌱 A final-semester CS Student and currently learning **MERN Stack**
+- 🌱 A graduate CS Student from DHA Suffa University and currently improving on **MERN Stack**
 
 - 🔭 I’m currently working on [React-NoteDiary](https://github.com/neeraj-kumarr/React-NoteDiary)
 
